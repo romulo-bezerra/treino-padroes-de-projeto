@@ -3,10 +3,10 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package br.edu.ifpb.treino.tecnica.hook.methods.app;
+package br.edu.ifpb.treino.template.method.app;
 
-import br.edu.ifpb.treino.tecnica.hook.methods.domain.HomemDeFerro;
-import br.edu.ifpb.treino.tecnica.hook.methods.domain.Vingadores;
+import br.edu.ifpb.treino.template.method.domain.HomemDeFerro;
+import br.edu.ifpb.treino.template.method.domain.Vingadores;
 
 /**
  *

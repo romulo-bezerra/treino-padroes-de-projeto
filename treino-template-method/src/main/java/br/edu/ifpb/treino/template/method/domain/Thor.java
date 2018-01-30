@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package br.edu.ifpb.treino.tecnica.hook.methods.domain;
+package br.edu.ifpb.treino.template.method.domain;
 
 /**
  *
